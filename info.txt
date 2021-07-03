@@ -1,0 +1,4 @@
+Database for books
+it uploads all your data in a TextFile
+whenever you open the Console Application , it takes all the data from the file as a kind of input
+and works with it.
